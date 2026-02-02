@@ -14,3 +14,6 @@ def square(angle):
 for i in range(36):
     square(90)
  
+Output:
+
+<img width="409" height="413" alt="Screenshot 2025-12-19 133631" src="https://github.com/user-attachments/assets/772d3bc3-41d1-4683-a5be-b593b30a9452" />
